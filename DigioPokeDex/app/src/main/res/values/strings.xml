@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DigioPokeDex</string>
+    <string name="pokemon_name"><![CDATA[<POKEMON NAME>]]></string>
+    <string name="digio_pokedex">Digio PokeDex</string>
+    <string name="txt_pokemon_name"><![CDATA[<POKEMON NAME>]]></string>
+</resources>

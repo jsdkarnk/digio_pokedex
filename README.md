@@ -1,1 +1,0 @@
-digio_pokedex
